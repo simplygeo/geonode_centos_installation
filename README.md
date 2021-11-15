@@ -13,7 +13,7 @@ As your CentOS user (which can do sudo), do the following:
 ``` bash
 wget https://raw.githubusercontent.com/simplygeo/geonode_centos_installation/main/install_geonode_centos_part1.sh
 wget https://raw.githubusercontent.com/simplygeo/geonode_centos_installation/main/install_geonode_centos_part1.sh
-chmod +x install-geonode*
+chmod +x install_geonode*
 ./install_geonode_centos_part1.sh
 ./install_geonode_centos_part2.sh
 ```
