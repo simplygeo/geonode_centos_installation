@@ -1,2 +1,3 @@
-# geonode_centos_installation
-GeoNode installation script for CentOS Linux
+# GeoNode installation script for CentOS Linux
+
+bla...bla
