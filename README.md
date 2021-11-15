@@ -1,3 +1,3 @@
 # GeoNode installation script for CentOS Linux
 
-bla...bla
+### Not tested yet!
