@@ -1,9 +1,9 @@
 # GeoNode installation script for CentOS Linux
 
 GeoNode 3.2.x installation script (based on GeoNode Docker images).<br>
-Tested with CentOS 8.4, Rocky 8.4.
+Tested with CentOS Linux 8.4, Rocky Linux 8.4
 <br>
-Not yet tested for other 'similar' distros: Alma/RHEL 8.x, hopefully also work for them. 
+Not yet tested for RHEL 8.x, hopefully will also work there. 
 
 <hr>
 
@@ -12,7 +12,7 @@ Not yet tested for other 'similar' distros: Alma/RHEL 8.x, hopefully also work f
 As your CentOS user (which can do sudo), do the following:
 ``` bash
 wget https://raw.githubusercontent.com/simplygeo/geonode_centos_installation/main/install_geonode_centos_part1.sh
-wget https://raw.githubusercontent.com/simplygeo/geonode_centos_installation/main/install_geonode_centos_part1.sh
+wget https://raw.githubusercontent.com/simplygeo/geonode_centos_installation/main/install_geonode_centos_part2.sh
 chmod +x install_geonode*
 ./install_geonode_centos_part1.sh
 ./install_geonode_centos_part2.sh
