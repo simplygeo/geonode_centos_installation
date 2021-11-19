@@ -3,7 +3,6 @@
 GeoNode 3.2.x installation script (based on GeoNode Docker images).<br>
 Tested with CentOS Linux 8.4, Rocky Linux 8.4
 <br>
-Not yet tested for RHEL 8.x, hopefully will also work there. 
 
 <hr>
 
